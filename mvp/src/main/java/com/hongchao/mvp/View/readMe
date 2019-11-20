@@ -1,0 +1,1 @@
+这里主要包含了activity的一系列关于UI操作，然后用我们的activity去实现，这样presenter就可以调用了
